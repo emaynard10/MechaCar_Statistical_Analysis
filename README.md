@@ -56,3 +56,6 @@ The statistical test we will use is the analysis of variance or the ANOVA. This 
 
 #### * What data is needed to run the statistical test?
 The data needed for the test is the costs, mpg, and safety ratings from a selection of competitors.
+
+### Contact
+[Contact Emily](mailto:emaynard10@gmailcom)
